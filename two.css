@@ -6,26 +6,26 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: sans-serif;
+    font-family: 'Imprima', Arial, sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: serif;
-    font-size: 3.998rem;
+    font-family: 'Cantata One', Bookman, serif;
+    font-size: 3.4rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: serif;
-    font-size: 2.827rem;
+    font-family: 'Cantata One', Bookman, serif;
+    font-size: 2.75rem;
     padding:1rem 2rem;
 }
 nav ul{
     padding:1rem 0;
 }
 nav li{
-    font-size: 1.999rem;
+    font-size: 1.85rem;
     list-style-type: none;
 }
 nav li>a{
